@@ -10,5 +10,7 @@ RUN mkdir /seattle/install
 RUN python repy_v2/scripts/build.py /seattle/install
 
 ADD ./src/ /seattle/install/user
+WORKDIR /seattle/install
+RUN cp user/* .
 
 ENTRYPOINT "/bin/bash"
