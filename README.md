@@ -1,6 +1,6 @@
 # Repy Build System
 ## What?
-Quick and dirty build system for doing homework with Repy from the Seattle Testbed project () [https://github.com/SeattleTestbed/repy_v2]
+Quick and dirty build system for doing homework with Repy from the Seattle Testbed project ()[https://github.com/SeattleTestbed/repy_v2]
 
 ## Why?
 I didn't want to struggle with doing things on my host
